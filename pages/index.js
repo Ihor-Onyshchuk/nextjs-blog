@@ -21,7 +21,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>
+          Marty is a friendly, easygoing but accident-prone everyman who can sometimes lack critical thinking skills; he is nevertheless brave in the face of danger and can be very quick-witted and intelligent.
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
