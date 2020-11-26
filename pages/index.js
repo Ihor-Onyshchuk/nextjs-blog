@@ -25,8 +25,7 @@ export default function Home({ allPostsData }) {
           Marty is a friendly, easygoing but accident-prone everyman who can sometimes lack critical thinking skills; he is nevertheless brave in the face of danger and can be very quick-witted and intelligent.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This is a sample website about Marty!
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
